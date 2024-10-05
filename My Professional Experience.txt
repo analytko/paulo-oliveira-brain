@@ -1,0 +1,9 @@
+Company	Role	Period
+Upwork	Freelancer	May 2023 - Present
+Libbs Pharmaceuticals	HR Data Coordinator	Feb 2021 - Dec 2023
+Libbs Pharmaceuticals	HR data specialist	Feb 2019 - Feb 2021
+Libbs Pharmaceuticals	Senior HR Data and Intelligence Analyst	Aug 2016 - Feb 2019
+Porto Seguro	Senior HR Information Analyst	Oct 2015 - Jul 2016
+Fleury LAB	Senior HR Analyst - Processes and Indicators	Feb 2014 - Sep 2015
+Santander Bank	Jr Analyst - Risk Governance	Aug 2012 - Feb 2014
+Santander Bank	Intern	Dec 2010 - Aug 2012
